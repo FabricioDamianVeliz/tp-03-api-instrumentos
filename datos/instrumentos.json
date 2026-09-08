@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Guitarra Acústica",
+    "familia": "Cuerda",
+    "origen": "España",
+    "descripcion": "Instrumento musical de cuerda pulsada con caja de resonancia de madera.",
+    "disponible": true
+  },
+  {
+    "id": 2,
+    "nombre": "Flauta Traversa",
+    "familia": "Viento",
+    "origen": "Alemania",
+    "descripcion": "Instrumento de viento madera con bisel, tradicionalmente construido en metal.",
+    "disponible": true
+  },
+  {
+    "id": 3,
+    "nombre": "Batería",
+    "familia": "Percusión",
+    "origen": "Estados Unidos",
+    "descripcion": "Conjunto de instrumentos musicales de percusión tocados simultáneamente.",
+    "disponible": false
+  },
+  {
+    "id": 4,
+    "nombre": "Violín",
+    "familia": "Cuerda",
+    "origen": "Italia",
+    "descripcion": "Instrumento de cuerda frotada, el más pequeño y agudo de su familia clásica.",
+    "disponible": true
+  },
+  {
+    "id": 5,
+    "nombre": "Trompeta",
+    "familia": "Viento",
+    "origen": "Egipto",
+    "descripcion": "Instrumento de viento metal con embocadura en forma de copa y tres pistones.",
+    "disponible": false
+  }
+]
